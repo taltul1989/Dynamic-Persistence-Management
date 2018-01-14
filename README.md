@@ -1,6 +1,6 @@
 # Dynamic-Persistence-Management
 
-Created a project that add/update/remove entity objects into cache and db (a file will be my db).
+I created a project that add/update/remove entity objects into cache and db (a file will be my db).
 
 When a user decide to add a specific entity (Example: Person or Vehicle), The cache will only add this specific entity.
 
